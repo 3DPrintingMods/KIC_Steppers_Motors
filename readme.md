@@ -10,6 +10,10 @@ Aluminum CNC blocks for wather cooling Nema 17s and 14s.
   <img src="images/image2.png">
 </p>
 
+<p align="center">
+  <img src="images/image3.png">
+</p>
+
 
 ## BOM
 
