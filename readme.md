@@ -19,7 +19,7 @@ Aluminum CNC blocks for wather cooling Nema 17s and 14s.
 
 - 2x M5 Pneumatic fittings
 - 2x M3x6mm SHCS (for holding the blocks together)
-- 2x M3xX SHCS (for holding the blocks to the stepper motor)
+- 2x M3xX SHCS (for holding the blocks to the stepper motor - depends on motor length)
 
 
 
